@@ -1,0 +1,6 @@
+name: genpark-mcp-resource-uri-template-resolver-skill
+version: 1.0.0
+description: RFC 6570 URI template parser and variable expansion engine for Model Context Protocol resources
+command: python
+args:
+  - mcp_server.py
