@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-mcp-resource-uri-template-resolver-skill"
+version = "1.0.0"
+description = "RFC 6570 URI template parser and variable expansion engine for Model Context Protocol resources"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
