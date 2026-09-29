@@ -1,0 +1,20 @@
+{
+  "name": "genpark-mcp-resource-uri-template-resolver-skill",
+  "version": "1.0.0",
+  "description": "RFC 6570 URI template parser and variable expansion engine for Model Context Protocol resources",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "uri-template",
+    "rfc-6570",
+    "resource-resolver",
+    "model-context-protocol",
+    "url-expansion",
+    "python-standard-library",
+    "agent-skills",
+    "developer-tools",
+    "pattern-matching",
+    "resource-management"
+  ]
+}
